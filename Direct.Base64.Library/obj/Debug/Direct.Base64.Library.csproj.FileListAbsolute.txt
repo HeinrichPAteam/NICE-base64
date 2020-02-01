@@ -1,0 +1,12 @@
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\bin\Debug\Direct.Base64.Library.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\bin\Debug\Direct.Base64.Library.pdb
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\bin\Debug\Direct.Interface.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\bin\Debug\Direct.Shared.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\bin\Debug\log4net.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\bin\Debug\Microsoft.mshtml.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.csprojAssemblyReference.cache
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.csproj.CoreCompileInputs.cache
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.csproj.CopyComplete
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.dll
+C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.pdb
