@@ -20,3 +20,6 @@ Verified Compatibility:
 - NICE APA 7.0
 - NICE APA 7.1
 - NICE APA 7.2
+
+
+Disclaimer: this is a product of PAteam meant for the NICE community and is not created or supported by NICE
