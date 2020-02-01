@@ -12,6 +12,8 @@ Requirements:
 Install:
 - Copy Direct.Base64.Library.dll to NICE Designer and NICE Client installation directory
 - Reference Dll in project
+For reference see: 
+http://apa-onlinehelp.s3-website-us-west-2.amazonaws.com/72/content/library%20objects%20sdk/installing%20the%20library%20objects%20project.htm
 
 Verified Compatibility:
 
