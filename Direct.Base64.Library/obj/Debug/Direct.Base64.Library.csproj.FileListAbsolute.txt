@@ -10,3 +10,15 @@ C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Libr
 C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.csproj.CopyComplete
 C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.dll
 C:\Users\MartijnZuiderbaan\source\repos\Direct.Base64.Library\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.pdb
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.dll
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.pdb
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\bin\Debug\Direct.Base64.Library.dll
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\bin\Debug\Direct.Base64.Library.pdb
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\bin\Debug\Direct.Interface.dll
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\bin\Debug\Direct.Shared.dll
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\bin\Debug\log4net.dll
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\bin\Debug\Microsoft.mshtml.dll
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mateusz\Source\Repos\NICE-base64\Direct.Base64.Library\obj\Debug\Direct.Base64.Library.csproj.CopyComplete
