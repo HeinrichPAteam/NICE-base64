@@ -69,5 +69,31 @@ namespace Direct.Base64.Library
             }
         }
 
+        [DirectDom("Encode string to Base64")]
+        [DirectDomMethod("Encode {string} to Base64 String")]
+        [MethodDescription("Encode string to Base64 String")]
+        public static string EncodeStringToBase64(string stringToEncode)
+        {
+            try
+            {
+                if (logArchitect.IsDebugEnabled)
+                {
+                    logArchitect.Debug("Direct.Base64.Library - Start encoding to base64 from string: " + stringToEncode);
+                }
+                var stringToEncodeBytes = System.Text.Encoding.UTF8.GetBytes(stringToEncode);
+                String AsBase64String = Convert.ToBase64String(stringToEncodeBytes);
+                if (logArchitect.IsDebugEnabled)
+                {
+                    logArchitect.Debug("Direct.Base64.Library - Completed encoding string to base64: " + AsBase64String);
+                }
+                return AsBase64String;
+            }
+            catch (Exception e)
+            {
+                logArchitect.Error("Direct.Base64.Library - Encode String to Base64 Exception", e);
+                return null;
+            }
+        }
+
     }
 }
