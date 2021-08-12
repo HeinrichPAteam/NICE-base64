@@ -39,7 +39,7 @@
       <HintPath>..\..\..\..\..\..\Program Files (x86)\NICE Systems\Real-Time Designer\Direct.Interface.dll</HintPath>
     </Reference>
     <Reference Include="Direct.Shared">
-      <HintPath>..\..\..\Workspaces\Workspace\Direct.Barcode.Library\Direct.Barcode.Library\References\Direct.Shared.dll</HintPath>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\NICE Systems\Real-Time Designer\Direct.Shared.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
       <HintPath>..\..\..\..\..\..\Program Files (x86)\NICE Systems\Real-Time Designer\log4net.dll</HintPath>
