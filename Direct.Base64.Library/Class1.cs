@@ -69,9 +69,9 @@ namespace Direct.Base64.Library
             }
         }
 
-        [DirectDom("Encode string to Base64")]
-        [DirectDomMethod("Encode {string} to Base64 String")]
-        [MethodDescription("Encode string to Base64 String")]
+        [DirectDom("Encode Text to Base64")]
+        [DirectDomMethod("Encode {Text} to Base64")]
+        [MethodDescription("Creates an encoded base64 text from supplied text")]
         public static string EncodeStringToBase64(string stringToEncode)
         {
             try
@@ -95,9 +95,9 @@ namespace Direct.Base64.Library
             }
         }
 
-        [DirectDom("Decode base64 string to plain text")]
-        [DirectDomMethod("Decode {base64} string to plain text")]
-        [MethodDescription("Decode base64 string to plain text")]
+        [DirectDom("Decode Base64 to Plain Text")]
+        [DirectDomMethod("Decode {Base64} to Plain Text")]
+        [MethodDescription("Decodes supplied Base64 to Plain Text")]
         public static string DecodeBase64toPlainText(string base64EncodedData)
         {
             try
